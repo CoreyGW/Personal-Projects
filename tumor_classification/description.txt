@@ -1,0 +1,1 @@
+In this project I take set of training images from kaggle and use it to train a CNN to predict whether images with tumors are cancerous or non cancerous.
